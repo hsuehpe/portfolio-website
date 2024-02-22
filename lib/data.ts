@@ -35,26 +35,34 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "National Cheng Kung University",
+    location: "Tainan, Taiwan",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+      "I studied computer science and information engineering. I also learned about web development and algorithms. I graduated with a bachelor's degree.",
     icon: React.createElement(LuGraduationCap),
-    date: "2019",
+    date: "2013",
   },
   {
     title: "Front-End Developer",
-    location: "Orlando, FL",
+    location: "Taipei, Taiwan",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "And my first job worked at Asustor, ant its products are NAS, also known as network attached storage is a private storage device that can be placed at a home or office. Use a web browser to store important files, photos and videos in a NAS, which can then be accessed, stored and shared with other people.",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+    date: "2015 - 2018",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
+    title: "Website Application Developer",
+    location: "Taipei, Taiwan",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "And my previous job were worked at KKBOX, as a Front-end Developer. and contributed to several web-based projects using Vue, including official websites, online music players, and web apps for smart TV, Chromecast, and Google Home.",
+    icon: React.createElement(FaReact),
+    date: "2021 - present",
+  },
+  {
+    title: "Senior Front-End Developer",
+    location: "Taipei, Taiwan",
+    description:
+      "I am currently working at 91APP, 91APP is an e-commerce company and my role is front-end engineer, my job is to develop the web applications, for example, I have built an CRM system for marketing solution with my talented teammates and the marketing solution of the CRM system is to do the personalized marketing, includes  push, sms and email marketing  and with data visualized which gives the insight to the customers.",
     icon: React.createElement(FaReact),
     date: "2021 - present",
   },
